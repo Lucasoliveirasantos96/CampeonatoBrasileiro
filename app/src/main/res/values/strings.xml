@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CampeonatoBrasileiro</string>
+    <string name="btn_busca">Listar</string>
+    <string name="lblCamp">Campeonato: </string>
+
+    <string-array name="camp1">
+        <item>Todos</item>
+        <item>Corinthians</item>
+        <item>Santos</item>
+        <item>Grêmio</item>
+        <item>Palmeiras</item>
+        <item>Cruzeiro</item>
+        <item>Botafogo</item>
+        <item>Flamengo</item>
+        <item>ATLÉTICO-PR</item>
+        <item>Vasco</item>
+
+
+    </string-array>
+</resources>
